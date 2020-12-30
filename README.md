@@ -1,5 +1,5 @@
 # node-playground
-node.js playground
+Node.js playground
 
 ## Getting started
 ```
@@ -9,6 +9,9 @@ docker-compose up -d
 docker-compose exec app bash
 node index.js
 ```
+
+## Reference
+- https://nodejs.org
 
 ## License
 MIT
