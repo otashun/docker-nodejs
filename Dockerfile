@@ -1,4 +1,4 @@
-FROM node:15.2-buster
+FROM node:current-buster
 WORKDIR /app
 COPY . ./
 EXPOSE 3000
