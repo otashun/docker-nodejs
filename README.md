@@ -7,7 +7,7 @@ git clone git@github.com:otashun/docker-nodejs.git
 cd docker-nodejs
 docker-compose up -d
 docker-compose exec app bash
-node index.js
+ts-node index.ts
 ```
 
 ## Reference
